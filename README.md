@@ -28,4 +28,10 @@ This Python project allows you to convert an image into a **pencil sketch** or a
 
 ---
 
+## How to run
+`pip install opencv-python-headless numpy`
+  
+### **Usage**
 
+1.**Run the script:**
+`python instagram-filters.py`

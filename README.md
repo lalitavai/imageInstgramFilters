@@ -2,6 +2,8 @@
 
 This Python project allows you to convert an image into a **pencil sketch** or a **cartoonized version** using OpenCV. The transformations use various image processing techniques such as grayscale conversion, edge detection, Gaussian blur, and color manipulation to generate creative versions of your input image.
 
+![Alt text](instgram-filters.png)
+
 ---
 
 ## Features
